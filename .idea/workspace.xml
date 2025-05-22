@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c413094-9a0d-4ea3-9944-3a10e9c39f40" name="Changes" comment="добавление метода вывода числа в различных системах счисления" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dimasimagin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dimasimagin/jajaj.git&quot;,
+    &quot;accountId&quot;: &quot;bf8c5f51-106c-40f3-bfd0-b8a210779ace&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uDqOmnQaBAYWNZ8ElkMTjjJiPM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/calculator&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\calculator\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c413094-9a0d-4ea3-9944-3a10e9c39f40" name="Changes" comment="" />
+      <created>1741793465642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741793465642</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1743139529717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743139529717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="комментарии в классе Cal">
+      <option name="closed" value="true" />
+      <created>1744296314043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744296314043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="комментарии в классе Cal 1">
+      <option name="closed" value="true" />
+      <created>1744296966635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744296966635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="комментарии в классе Cal 1">
+      <option name="closed" value="true" />
+      <created>1744297084420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744297084420</updated>
+    </task>
+    <task id="LOCAL-00005" summary="комментарии в классе Cal 1">
+      <option name="closed" value="true" />
+      <created>1744297369514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744297369514</updated>
+    </task>
+    <task id="LOCAL-00006" summary="комментарии в классе Cal">
+      <option name="closed" value="true" />
+      <created>1744297520770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744297520770</updated>
+    </task>
+    <task id="LOCAL-00007" summary="комментарии в классе Cal 2">
+      <option name="closed" value="true" />
+      <created>1744298296297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744298296297</updated>
+    </task>
+    <task id="LOCAL-00008" summary="комментарии в классе Cal 2">
+      <option name="closed" value="true" />
+      <created>1744299082753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744299082753</updated>
+    </task>
+    <task id="LOCAL-00009" summary="создание иерархии классов">
+      <option name="closed" value="true" />
+      <created>1744307160520</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744307160520</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ошибка деление но 0">
+      <option name="closed" value="true" />
+      <created>1744349474803</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744349474803</updated>
+    </task>
+    <task id="LOCAL-00011" summary="коммит">
+      <option name="closed" value="true" />
+      <created>1744350386249</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744350386249</updated>
+    </task>
+    <task id="LOCAL-00012" summary="добавление метода вывода числа в различных системах счисления">
+      <option name="closed" value="true" />
+      <created>1744351378632</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744351378632</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="комментарии в классе Cal 1" />
+    <MESSAGE value="комментарии в классе Cal" />
+    <MESSAGE value="комментарии в классе Cal 2" />
+    <MESSAGE value="создание иерархии классов" />
+    <MESSAGE value="ошибка деление но 0" />
+    <MESSAGE value="коммит" />
+    <MESSAGE value="добавление метода вывода числа в различных системах счисления" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавление метода вывода числа в различных системах счисления" />
+  </component>
+</project>
