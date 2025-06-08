@@ -27,7 +27,7 @@ public class BinaryNumber extends Number {
     public Number divide(Number other) {
         if(other.toDecimal() == 0)
         {
-            throw new ArithmeticException("Деление на ноль невозможно.");
+            throw new ArithmeticException("Деление на ноль.");
         }
         long result = this.toDecimal() / other.toDecimal();
         return new BinaryNumber(fromDecimal(result));

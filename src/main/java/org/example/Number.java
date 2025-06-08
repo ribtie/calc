@@ -1,9 +1,9 @@
 package org.example;
 
 public abstract class Number {
-    protected String value; // значение числа
+    protected String value; 
     protected int radix; // система счисления числа
-    // конструктор числа
+
     public Number(String value, int radix) {
         this.value = value;
         this.radix = radix;
